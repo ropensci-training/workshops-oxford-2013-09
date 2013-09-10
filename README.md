@@ -16,11 +16,10 @@ You'll be able to copy-paste all of the code provided here directly into RStudio
 
 |Topic|Time|
 |---------------|-------|
-|**Introduction to rOpenSci** [slides](http://ropensci.github.io/workshops-oxford-2013-09/00-introduction/intro_slides/index.html) | 2:30 - 3 |
-|**rOpenSci demos 1** *Biodiversity records, taxonomic name resolution, climate mapping*  | 3:00 - 4:00 |
-|**Break**| 4:00 - 4:15 |
-|**rOpenSci demos 2** *Reproducible workflows, sharing and reusing data and analyses*  [slides](http://ropensci.github.io/workshops-oxford-2013-09/02-reproducible-workflows/slides/index.html) | 4:15 - 5:00 |
-|**Wrap up and discussion**  | 5:00 - 5:30 |
+|**Introduction to rOpenSci** [slides](http://ropensci.github.io/workshops-oxford-2013-09/00-introduction/intro_slides/index.html) | 12: 12:30 |
+|**rOpenSci demos 1** *Biodiversity records, taxonomic name resolution, climate mapping*  | 12:30-1:10 |
+|**rOpenSci demos 2** *Reproducible workflows, sharing and reusing data and analyses*  [slides](http://ropensci.github.io/workshops-oxford-2013-09/02-reproducible-workflows/slides/index.html) | 1:10 - 1:50 |
+|**Wrap up and questions **  | 1:50 - 2:00 |
 
 ## Feedback
 
