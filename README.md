@@ -19,7 +19,7 @@ You'll be able to copy-paste all of the code provided here directly into RStudio
 |**Introduction to rOpenSci** [slides](http://ropensci.github.io/workshops-oxford-2013-09/00-introduction/intro_slides/index.html) | 12: 12:30 |
 |**rOpenSci demos 1** *Biodiversity records, taxonomic name resolution, climate mapping*  | 12:30-1:10 |
 |**rOpenSci demos 2** *Reproducible workflows, sharing and reusing data and analyses*  [slides](http://ropensci.github.io/workshops-oxford-2013-09/02-reproducible-workflows/slides/index.html) | 1:10 - 1:50 |
-|**Wrap up and questions **  | 1:50 - 2:00 |
+|**Wrap up and questions**  | 1:50 - 2:00 |
 
 ## Feedback
 
