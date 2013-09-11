@@ -8,7 +8,10 @@ Welcome to the GitHub repository for the Oxford workshop. All the code and packa
 
 You'll be able to copy-paste all of the code provided here directly into RStudio.
 
-* Login at [**rstudio.ropensci.org**](http://rstudio.ropensci.org/)
+* Login at [**rstudio.ropensci.org**](http://rstudio.ropensci.org/)  
+
+*Note: Server is not on at all times. However you should be able to install packages locally at any time.*
+
 
 --- 
 
