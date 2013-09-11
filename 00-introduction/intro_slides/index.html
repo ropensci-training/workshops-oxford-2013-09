@@ -149,12 +149,6 @@ Slide Break
 </blockquote>
 </section>
 
-<!--    ##############    slide delimiter  ##############    -->
-
-<section class="slide" id="science_lacks_reproducibility2">
-<br><br>
-<img src="images/step2.png">
-</section>
 
 <!--    ##############    slide delimiter  ##############    -->
 
@@ -300,33 +294,21 @@ Slide Break
 	<td>
 		<img src="images/clear_line.png" height="1" width="250">
 <pre><span style="color:#669900; font-family:'Museo Sans'; font-size:110%"><i class="ss-icon ss-box"></i> Data</span>
-Treebase
-Fishbase
-Flybase
-GBIF
-Vertnet
-Dryad
-ITIS
-NPN
-EcoData
-Taxize
-opensnp</pre><br></td> 
+Treebase, Fishbase, Flybase
+GBIF, Vertnet, Dryad, rWBclimate, 
+NPN, EcoData, Taxize, opensnp</pre><br></td> 
 	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> 
 	<td>
 <img src="images/clear_line.png" height="1" width="250"><pre><span style="color:#c4a12e; font-family:'Museo Sans'; font-size:105%"><i class="ss-icon ss-notebook"></i>&nbsp; Journals</span>
-PLOS
-Springer
-textmine
-pensoft</pre>
+PLOS, Springer, textminer, rImpactStory
+rAltmetrics, Mendeley
+</pre>
 </td> 
 	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> 
 	<td><img src="images/clear_line.png" height="1" width="250"><pre><span style="color:#e2460e; font-family:'Museo Sans'; font-size:105%"><i class="ss-icon ss-list"></i>&nbsp; Hybrid</span>
 figshare
-Mendeley
 DataONE
-raltmet
-rImpactStory
-rAltmetrics</pre>
+</pre>
 </td> 
 </tr>
     </table>
@@ -398,6 +380,26 @@ tree &lt;- <span class="functioncall">search_treebase</span>(<span class="string
 	<div>
 
 	</div>	
+</section>
+<!--    ##############    slide delimiter  ##############    -->
+
+
+<section class="slide" id="rwbclimate">
+<h2>World Bank climate knowledge portal <code>rWBclimate</code></h2>
+<pre class="knitr r"><span class="hl kwd">library</span><span class="hl std">(rWBclimate)</span>
+<span class="hl std">eu_basin</span> <span class="hl kwb">&lt;-</span> <span class="hl kwd">create_map_df</span><span class="hl std">(Eur_basin)</span>
+<span class="hl std">eu_basin_dat</span> <span class="hl kwb">&lt;-</span> <span class="hl kwd">get_ensemble_temp</span><span class="hl std">(Eur_basin,</span> <span class="hl str">&quot;annualanom&quot;</span><span class="hl std">,</span> <span class="hl num">2080</span><span class="hl std">,</span> <span class="hl num">2100</span><span class="hl std">)</span>
+</pre>
+<img src="images/rWBclimate.png">
+</section>
+
+
+<!--    ##############    slide delimiter  ##############    -->
+
+<section class="slide" id="alt_metrics0">
+	<h2>Measure research impact in real time</h2>
+<img src="images/impactstory.png" height="570" width="1131">
+<a href="http://impactstory.org">ImpactStory.org</a>
 </section>
 
 
